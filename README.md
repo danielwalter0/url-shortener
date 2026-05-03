@@ -4,7 +4,7 @@ A lightweight, self-hosted URL shortener built with **Python** and **Flask**, fe
 
 ---
 
-## 📋 Table of Contents
+## Table of Contents
 
 - [Features](#features)
 - [Tech Stack](#tech-stack)
@@ -32,7 +32,7 @@ A lightweight, self-hosted URL shortener built with **Python** and **Flask**, fe
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 | Layer     | Technology        |
 |-----------|-------------------|
@@ -42,7 +42,7 @@ A lightweight, self-hosted URL shortener built with **Python** and **Flask**, fe
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -92,7 +92,7 @@ The app will be available at **http://127.0.0.1:5000** by default.
 
 ---
 
-## 💡 Usage
+## Usage
 
 1. Open the homepage in your browser.
 2. Paste a long URL into the input field.
@@ -101,7 +101,7 @@ The app will be available at **http://127.0.0.1:5000** by default.
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 url-shortener/
@@ -119,7 +119,7 @@ url-shortener/
 
 ---
 
-## ⚙️ Configuration
+## Configuration
 
 Copy `.env.example` to `.env` and update the values as needed:
 
@@ -138,7 +138,7 @@ BASE_URL=http://127.0.0.1:5000
 
 ---
 
-## 🗺 Roadmap
+## Roadmap
 
 - [x] Basic URL shortening and redirection
 - [x] HTML homepage
@@ -152,7 +152,7 @@ BASE_URL=http://127.0.0.1:5000
 
 ---
 
-## 🧩 Browser Extension (Planned)
+## Browser Extension (Planned)
 
 The goal is to extend this project into a **browser extension** that allows users to shorten the current tab's URL directly from their browser toolbar — no need to visit the homepage.
 
@@ -166,7 +166,7 @@ The goal is to extend this project into a **browser extension** that allows user
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! Here's how to get started:
 
@@ -180,7 +180,7 @@ Please make sure your code follows existing conventions and includes relevant co
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the [MIT License](LICENSE).
 
