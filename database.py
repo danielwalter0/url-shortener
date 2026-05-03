@@ -32,7 +32,7 @@ def generate_code(length=6):
     characters = string.ascii_letters + string.digits
     return ''.join(random.choice(characters) for _ in range(length))
 
-def create_link(original_url):
+def create_short_link(original_url):
     conn = get_db()
     
     while True:
