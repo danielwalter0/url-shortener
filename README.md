@@ -22,7 +22,7 @@ A lightweight, self-hosted URL shortener built with **Python** and **Flask**, fe
 
 ---
 
-## ✨ Features
+## Features
 
 - Shorten long URLs into compact, shareable links
 - Redirect users from short URLs to their original destinations
